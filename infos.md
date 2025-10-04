@@ -87,10 +87,12 @@ Build-Management-Tool für Java-Projekte.
 
 Versionskontrollsystem. Mit Git kannst du deine Änderungen versionieren (commiten), jederzeit zu alten Versionen zurückspringen und Änderungen nachvollziehen.
 
-* git init - neues Git-Repository anlegen.
-* git add . - Änderungen vormerken.
-* git commit -m "Nachricht" - Änderungen „speichern“ mit Nachricht.
-* git log - Verlauf anschauen.
+* git init
+* git add .
+* git commit -m "Nachricht"
+* git push
+* git status
+* git log
 
 
 
